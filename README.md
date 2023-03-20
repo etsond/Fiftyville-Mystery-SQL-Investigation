@@ -12,7 +12,7 @@ To run this SQL code, you will need:
 3. Open the SQL file mystery.sql in your SQL client and execute the code. This will run the SQL queries and display the results that solve the mystery.
 4. Follow along with the investigation by reading the comments in the SQL file.
 ## Data
-The data used in this investigation is fictional and is provided in the SQL files schema.sql and data.sql. The data includes information about crime scene reports, interviews, people, bank accounts, phone calls, flights, passengers, and airports.
+The data used in this investigation is fictional and is provided in the SQL file. The data includes information about crime scene reports, interviews, people, bank accounts, phone calls, flights, passengers, and airports.
 
 ### Conclusion
-By running the SQL queries in mystery.sql, the thief and their accomplice in the Fiftyville diamond necklace theft will be identified.
+By running the SQL queries in log.sql, the thief and their accomplice in the Fiftyville diamond necklace theft will be identified.
